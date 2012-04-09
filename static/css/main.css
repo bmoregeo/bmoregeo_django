@@ -14,7 +14,7 @@
 	/*position:absolute;
 	left:40%;*/
 	float:left;
-	width:45%;
+	width:44%;
 	padding:0 15% 0 5%;	
 }
 
@@ -160,6 +160,7 @@ nav#navPrimary{
 	text-align:center;
 	color:#fff;
 	margin:0;
+	display:block;
 	}
 	#headerPrimary a{text-decoration:none;}
 	
